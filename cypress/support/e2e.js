@@ -14,4 +14,8 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
+<<<<<<< HEAD
 import './commands'
+=======
+import './commands' 
+>>>>>>> 4df4d59 (Primer commit: pruebas automatizadas Cypress)
